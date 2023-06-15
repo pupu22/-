@@ -6,4 +6,4 @@
 - [CSDN前端八股文](https://blog.csdn.net/qq_59079803/article/details/124992321)
 
 ## 前端知识点
-### Promise
+ - [Promise](https://github.com/pupu22/FrontEnd-interview/blob/main/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86/Promise.md)
