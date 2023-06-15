@@ -7,4 +7,4 @@
 
 ## 前端知识点
  - [Promise简介](https://github.com/pupu22/FrontEnd-interview/blob/main/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86/Promise.md)
-   - [手写Promise]()
+   - [手写Promise](https://github.com/pupu22/interview-handwrite/blob/main/src/Promise.js)
