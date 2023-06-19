@@ -114,3 +114,6 @@ Via：告知代理客户端响应是通过哪里发送的。
 Warning：警告实体可能存在的问题。
 
 WWW-Authenticate：表明客户端请求实体应该使用的授权方案。
+
+# http缓存
+[http缓存详解](https://blog.csdn.net/zhongjunhaoz/article/details/108432748)
